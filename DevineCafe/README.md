@@ -1,2 +1,0 @@
-# DevineCafe
-Mobile Application Development
